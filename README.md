@@ -2,6 +2,7 @@
 
 
 **👋 Welcome to my profile** 
+
 Hi, I'm Nawres! I'm a Junior Data Analyst. I have a Bachelor’s degree in Computer Science.
 I enjoy working with data, cleaning it, analyzing it, and creating visualizations that make insights easy to understand.
 I’m currently building personal data analysis projects to strengthen my practical experience and apply my analytical and problem-solving skills to support data-driven decisions and contribute to meaningful improvements through impactful analysis.

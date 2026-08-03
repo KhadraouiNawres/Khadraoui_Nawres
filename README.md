@@ -8,17 +8,14 @@ I’m currently building personal data analysis projects to strengthen my practi
 
 [📄My Resume]("\Khadraoui_Nawres_Resume.pdf")
 
-## 📁 Portfolio Projects
-Name of the Project.  
-Code: Lien.  
-Goal: .  
-Description: .  
-Skills: .  
-Tools : .  
-Results: .  
+## 📌 Featured Projects
+
+### 📊 [Employee Attrition Analysis Dashboard](https://github.com/KhadraouiNawres/Employee-Attrition-Analysis-Dashboard)
+An interactive Power BI dashboard analyzing employee attrition, identifying key drivers of turnover, and providing data-driven retention recommendations.
 
 ## 🎓 Certifications
  ● [Google Data Analytics Professional Certificate](https://coursera.org/share/f1fc61d5129d4eabae60be4726359a21) (February 2026) (Coursera - Google)  
+ ● [Advanced Microsoft Excel Certificate](https://learn.365datascience.com/c/a2dae51927/) (Mars 2026) (365 Data Science) 
  ● [Python for Data Analysis](https://coursera.org/share/128b67b605000576b8900159090bcc48) (February 2026) (Coursera - Google)  
  ● [Geospatial Analysis](https://www.kaggle.com/learn/certification/khadraouinawres/geospatial-analysis) (February 2026) (Kaggle)
  

@@ -12,7 +12,7 @@ I’m currently building personal data analysis projects to strengthen my practi
 
 ## 💼 Projects
 
-### 📊 [Employee Attrition Analysis Dashboard](https://github.com/KhadraouiNawres/Employee-Attrition-Analysis-Dashboard)
+**[Employee Attrition Analysis Dashboard](https://github.com/KhadraouiNawres/Employee-Attrition-Analysis-Dashboard)**  
 An interactive Power BI dashboard analyzing employee attrition, identifying key drivers of turnover, and providing data-driven retention recommendations.
 
 ## 🎓 Certifications

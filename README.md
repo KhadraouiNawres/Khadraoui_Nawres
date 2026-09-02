@@ -8,16 +8,16 @@ Hi, I'm **Nawres**! I'm a **Junior Data Analyst**. I have a Bachelor’s degree 
 I enjoy working with data, cleaning it, analyzing it, and creating visualizations that make insights easy to understand.
 I’m currently building personal data analysis projects to strengthen my practical experience and apply my analytical and problem-solving skills to support data-driven decisions and contribute to meaningful improvements through impactful analysis.
 
-[📄My Resume]("\Khadraoui_Nawres_Resume.pdf")
-
 ## 💼 Projects
 
 **[Employee Attrition Analysis Dashboard](https://github.com/KhadraouiNawres/Employee-Attrition-Analysis-Dashboard)**  
 An interactive Power BI dashboard analyzing employee attrition, identifying key drivers of turnover, and providing data-driven retention recommendations.
 
 ## 🎓 Certifications
- ● [Google Data Analytics Professional Certificate](https://coursera.org/share/f1fc61d5129d4eabae60be4726359a21) (February 2026) (Coursera - Google)  
- ● [Advanced Microsoft Excel Certificate](https://learn.365datascience.com/c/a2dae51927/) (Mars 2026) (365 Data Science)  
+ ● [Associate Data Analyst Certificate](https://www.datacamp.com/certificate/DAA0012353759081) (August 2026) (DataCamp)
+ ● [ssociate Data Analyst In SQL Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/f2c68b0d98ea26d2b72b94d77aa6f267c9c7f44a?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa) (August 2026) (DataCamp)
+ ● [Advanced Microsoft Excel Certificate](https://learn.365datascience.com/c/a2dae51927/) (Mars 2026) (365 Data Science) 
+ ● [Google Data Analytics Professional Certificate](https://coursera.org/share/f1fc61d5129d4eabae60be4726359a21) (February 2026) (Coursera - Google)   
  ● [Python for Data Analysis](https://coursera.org/share/128b67b605000576b8900159090bcc48) (February 2026) (Coursera - Google)  
  ● [Geospatial Analysis](https://www.kaggle.com/learn/certification/khadraouinawres/geospatial-analysis) (February 2026) (Kaggle)
  
